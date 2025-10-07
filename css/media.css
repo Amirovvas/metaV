@@ -197,6 +197,11 @@
     .work {
       text-align: center;
       align-items: center;
+      .cards{
+        .card{
+          padding: 15px;
+        }
+      }
     }
   }
   #footer {

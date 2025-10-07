@@ -198,6 +198,7 @@ body {
         max-width: 360px;
         background: rgba(9, 8, 35, 1);
         padding: 10px;
+        border-radius: 0 15px;
         .two-button {
           display: flex;
           gap: 10px;
