@@ -1,0 +1,266 @@
+@media (max-width: 1200px) {
+  #hero {
+    .hero {
+      img {
+        width: 100%;
+        max-width: 300px;
+      }
+      .date {
+        .date1 {
+          display: block;
+        }
+      }
+    }
+  }
+  #work {
+    .work {
+      .cards {
+        justify-content: center;
+      }
+    }
+  }
+  #Metaverse {
+    .Metaverse {
+      .Metaverse-text {
+        width: 100%;
+        max-width: 400px;
+      }
+      .meta-img2 {
+        width: 100%;
+        max-width: 120px;
+        top: 60px;
+        left: 100px;
+      }
+      .meta-img1 {
+        width: 100%;
+        max-width: 120px;
+      }
+    }
+  }
+}
+@media (max-width: 1024px) {
+  #work {
+    .work {
+      .cards {
+        .card {
+          width: 100%;
+          max-width: 300px;
+          img {
+            width: 100%;
+            max-width: 300px;
+          }
+        }
+      }
+    }
+  }
+
+  #footer {
+    .footer {
+      .meta {
+        width: 100%;
+        max-width: 200px;
+        img {
+          width: 100%;
+          max-width: 100px;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  #header {
+    .header {
+      nav {
+        display: none;
+      }
+      .menu-burger {
+        display: block;
+        color: white;
+      }
+    }
+  }
+  #hero {
+    .hero {
+      .posit-img {
+        width: 100%;
+        max-width: 25px;
+        right: 200px;
+        top: 110px;
+      }
+      .hero-img {
+        width: 100%;
+        max-width: 230px;
+      }
+    }
+  }
+  #Metaverse {
+    .Metaverse {
+      .Metaverse-text {
+        width: 100%;
+        max-width: 300px;
+      }
+      .meta-img2 {
+        width: 100%;
+        max-width: 120px;
+        top: 90px;
+        left: 80px;
+      }
+      .meta-img1 {
+        width: 100%;
+        max-width: 120px;
+      }
+    }
+  }
+  #footer {
+    .footer {
+      .meta {
+        width: 100%;
+        max-width: 150px;
+      }
+      .Contact {
+        width: 100%;
+        max-width: 150px;
+      }
+    }
+  }
+}
+@media (max-width: 640px) {
+  #hero {
+    .hero {
+      position: relative;
+      flex-direction: column-reverse;
+      align-items: center;
+      text-align: center;
+      .hero-img {
+        width: 100%;
+        max-width: 300px;
+      }
+      .hero-text {
+        align-items: center;
+      }
+      .posit-img {
+        display: none;
+      }
+      .date {
+        .date1 {
+          display: none;
+        }
+      }
+      .date1,
+      .date2,
+      .date3 {
+        display: block;
+      }
+      .date1 {
+        position: absolute;
+        top: 80px;
+        left: 60px;
+      }
+      .date2 {
+        position: absolute;
+        top: 10px;
+        left: 130px;
+      }
+      .date3 {
+        position: absolute;
+        top: 10px;
+        right: 50px;
+      }
+    }
+  }
+  #Metaverse {
+    .Metaverse {
+      position: relative;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      .meta-img2 {
+        top: 30px;
+        left: 280px;
+      }
+
+      .Metaverse-text {
+        align-items: start;
+        text-align: left;
+      }
+    }
+  }
+  #our {
+    .our {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  #footer {
+    .footer {
+      flex-direction: column;
+      align-items: start;
+      text-align: left;
+      .meta {
+        width: 100%;
+        max-width: 300px;
+      }
+      .about-two {
+        display: flex;
+        justify-content: space-between;
+        text-align: left;
+        align-items: start;
+        gap: 25px;
+      }
+      .Contact {
+        .icon {
+          display: flex;
+          text-align: left;
+          align-items: start;
+          gap: 15px;
+        }
+      }
+    }
+  }
+}
+@media (max-width: 475px) {
+  #hero {
+    .hero {
+      position: relative;
+      flex-direction: column-reverse;
+      align-items: center;
+      text-align: center;
+      .hero-img {
+        width: 100%;
+        max-width: 300px;
+      }
+      .hero-text {
+        align-items: center;
+      }
+      .posit-img {
+        display: none;
+      }
+      .date {
+        .date1 {
+          display: none;
+        }
+      }
+      .date1,
+      .date2,
+      .date3 {
+        display: block;
+      }
+      .date1 {
+        position: absolute;
+        top: 80px;
+        left: 30px;
+      }
+      .date2 {
+        position: absolute;
+        top: 10px;
+        left: 100px;
+      }
+      .date3 {
+        position: absolute;
+        top: 10px;
+        right: 0;
+      }
+    }
+  }
+}
