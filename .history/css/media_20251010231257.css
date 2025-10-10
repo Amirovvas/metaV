@@ -1,4 +1,38 @@
+@media (max-width: 1400px) {
+#hero {
+    .hero {
+      img {
+        width: 100%;
+        max-width: 300px;
+      }
+      .date {
+        .date1 {
+          display: block;
+        }
+      }
+    }
+  }
+
+}
+
+
 @media (max-width: 1200px) {
+  #hero {
+    .hero {
+      img {
+        width: 100%;
+        max-width: 300px;
+      }
+      .hero-text{
+        
+      }
+      .date {
+        .date1 {
+          display: block;
+        }
+      }
+    }
+  }
   #work {
     .work {
       .cards {
@@ -142,22 +176,22 @@
           display: none;
         }
       }
-      .date4,
-      .date5,
-      .date6 {
+      .date1,
+      .date2,
+      .date3 {
         display: block;
       }
-      .date4 {
+      .date1 {
         position: absolute;
         top: 80px;
         left: 60px;
       }
-      .date5 {
+      .date2 {
         position: absolute;
         top: 10px;
         left: 130px;
       }
-      .date6 {
+      .date3 {
         position: absolute;
         top: 10px;
         right: 50px;

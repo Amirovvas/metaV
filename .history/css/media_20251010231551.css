@@ -1,4 +1,19 @@
 @media (max-width: 1200px) {
+  /* #hero {
+    .hero {
+      img {
+        width: 100%;
+        max-width: 300px;
+      }
+      .hero-text {
+        .date {
+          .date1 {
+            display: block;
+          }
+        }
+      }
+    }
+  } */
   #work {
     .work {
       .cards {
