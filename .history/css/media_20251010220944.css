@@ -37,13 +37,9 @@
       }
     }
   }
-  #our {
-    .our {
-      img {
-        width: 100%;
-        max-width: 900px;
-      }
-    }
+  #our{
+    width: 100%;
+    
   }
 }
 @media (max-width: 1024px) {
