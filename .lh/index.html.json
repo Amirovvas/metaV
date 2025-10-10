@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 1,
+            "activePatchIndex": 2,
             "patches": [
                 {
                     "date": 1760116485952,
@@ -12,6 +12,10 @@
                 {
                     "date": 1760116492764,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -60,17 +60,17 @@\n             </div>\r\n           </div>\r\n           <img class=\"posit-img\" src=\"./img/posit.png\" alt=\"\" />\r\n           <img class=\"hero-img\" src=\"./img/hero.png\" alt=\"\" />\r\n-          <div class=\"date3\">\r\n+          <div class=\"date4\">\r\n             <h4>29K+</h4>\r\n             <p>Artworks</p>\r\n           </div>\r\n-          <div class=\"date2\">\r\n+          <div class=\"date5\">\r\n             <h4>18K+</h4>\r\n             <p>Artists</p>\r\n           </div>\r\n-          <div class=\"date3\">\r\n+          <div class=\"date6\">\r\n             <h4>25K+</h4>\r\n             <p>Auction</p>\r\n           </div>\r\n         </div>\r\n"
+                },
+                {
+                    "date": 1760117496341,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n <html lang=\"en\">\r\n   <head>\r\n     <meta charset=\"UTF-8\" />\r\n     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n-    <title>META</title>\r\n+    <title>METAV</title>\r\n     <link rel=\"stylesheet\" href=\"./css/style.css\" />\r\n     <link rel=\"stylesheet\" href=\"./css/media.css\" />\r\n     <link\r\n       href=\"https://fonts.googleapis.com/css?family=Orbitron:regular,500,600,700,800,900\"\r\n"
                 }
             ],
             "date": 1760116485952,
